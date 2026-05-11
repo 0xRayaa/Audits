@@ -9,12 +9,12 @@ I'm a security researcher specializing in Smart Contract Audits across **Solidit
 
 | Category | Coverage |
 |----------|----------|
-| 🏦 **DeFi** | AMMs · Lending & Borrowing · Bonding Curves · Token Launchers · Vesting · Restaking |
-| 🥩 **Staking** | Staking Vaults · NFT Staking · Liquid Staking · Validator Systems · Reward Mechanisms |
-| 🎮 **GameFi** | Lottery · Dice · Slots · Roulette · Prediction Markets · NFT Marketplaces |
-| 🪙 **Tokens** | ERC20 · SPL Tokens · Tokenomics · Airdrop & Distribution · Governance Modules |
-| 🌉 **Infrastructure** | Cross-chain · Chain Abstraction · Interchain Messaging · Browser Wallet Extensions |
-| ⛓️ **Ecosystems** | EVM (Solidity) · Solana (Rust) · CosmWasm (Rust) · StarkNet (Cairo) · DAML |
+| **DeFi** | AMMs · Lending & Borrowing · Bonding Curves · Token Launchers · Vesting · Restaking |
+| **Staking** | Staking Vaults · NFT Staking · Liquid Staking · Validator Systems · Reward Mechanisms |
+| **GameFi** | Lottery · Dice · Slots · Roulette · Prediction Markets · NFT Marketplaces |
+| **Tokens** | ERC20 · SPL Tokens · Tokenomics · Airdrop & Distribution · Governance Modules |
+| **Infrastructure** | Cross-chain · Chain Abstraction · Interchain Messaging · Browser Wallet Extensions |
+| **Ecosystems** | EVM (Solidity) · Solana (Rust) · CosmWasm (Rust) · StarkNet (Cairo) · DAML |
 
 📩 Interested in working together?  
 - Twitter/X: [@0xRayaa](https://x.com/0xRayaa)  
