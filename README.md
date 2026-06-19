@@ -53,6 +53,7 @@ I'm a security researcher specializing in Smart Contract Audits across **Solidit
 ## 📆 2026 Audits
 Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |----------|-------------|-----------|----------|----------|----|
+Asterizm | cross-chain DApp | Canton | DAML | 4 (1C,1H,3M) | **[🔗](audit-reports/pdfs/Asterizm_Final_Audit_Report.pdf)** |
 Mercuri Protocol | Uniswap V3 Pool Vault | ♦ EVM | Solidity | 4 (3C,0H,1M) | **[🔗](audit-reports/pdfs/MercuriFinance-MercuriProtocolContracts_Audit_Report.pdf)** |
 Blockwill | Defi Protocol | ♦ EVM | Solidity | 4 (0C,1H,3M) | **[🔗](audit-reports/pdfs/Blockwill_Final_Audit_Report.pdf)** |
 Ardentis | Lending, Borrowing (Morpho Fork) | ♦ EVM | Solidity | 7 (0C,1H,6M) | **[🔗](audit-reports/pdfs/Ardentis_Final_Audit_Report.pdf)** |
