@@ -1,9 +1,14 @@
 # 0xRayaa's Security Portfolio
 
-I'm a security researcher specializing in Smart Contract Audits across **Solidity**, **Rust** (Solana, CosmWasm), **Cairo** (StarkNet), and **DAML** — along with professional **Web2 bug bounty hunting & penetration testing**.
+Security researcher working across **Web2**, **Web3**, and **AI** security.
+Offensive Security Engineer @ BitGo.
 
-**Smart Contract:** 130+ private audits · 150+ Critical/High vulnerabilities · 25+ Rust audits 🦀  
+**Web3:** 130+ private audits · 150+ Critical/High vulnerabilities · 25+ Rust audits 🦀  
+Solidity · Rust (Solana, CosmWasm) · Cairo (StarkNet) · DAML (Canton)
+
 **Web2:** 3 published CVEs · Critical/High findings at Stryker, Ivanti, BitGo, Decred, Tennessee Valley Authority & more · Active on Bugcrowd, HackerOne, and government platforms
+
+**AI:** LLM/agent red teaming · AI-assisted audit tooling
 
 **Protocols & mechanisms audited across:**
 
@@ -17,7 +22,7 @@ I'm a security researcher specializing in Smart Contract Audits across **Solidit
 | **Ecosystems** | EVM (Solidity) · Solana (Rust) · CosmWasm (Rust) · StarkNet (Cairo) · DAML |
 
 📩 Interested in working together?  
-- Twitter/X: [@0xRayaa](https://x.com/0xRayaa)  
+- Twitter/X: [@OxRayaa](https://x.com/OxRayaa)  
 - Telegram: [@0xRayaa](https://t.me/0xRayaa)  
 
 ---
@@ -70,7 +75,7 @@ LERN360 | Staking | ♦ EVM | Solidity | 24 (6C,10H,8M) | **[🔗](audit-reports
 Amgi Studios-1 | NFT Staking, L1<>L2 RollUp | ♦ EVM | Solidity | 9 (4C,3H,2M) | **Soon** |
 Power Couple Coin | Staking, Lottery | 🦀 Solana | Rust | 9 (6C,0H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Lottery_Contracts_Final_Audit_Report.pdf)** |
 Power Couple Coin: Selltax | DeFi | 🦀 Solana | Rust | 9 (6C,0H,3M) | **Soon** |
-Tarmiiz | Staking Vault | ♦ EVM | Solidity | 9 (2C,3H,4M) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Tarmiiz_Final_Audit_Report.pdf)** |
+Tarmiiz | Staking Vault | ♦ EVM | Solidity | 9 (2C,3H,4M) | **[🔗](https://github.com/0xRayaa/Audits/blob/main/audit-reports/pdfs/Tarmiiz_Final_Audit_Report.pdf)** |
 DotLabs: Mushi | DeFi, Lending/Borrowing | 🦀 Solana | Rust | 8 (1C,3H,4M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Mushi_V2_0_Final_Audit_Report.pdf)** |
 BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 (2C,0H,3M,9L) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/BRLA_Final_Audit_Report.pdf)** |
 
@@ -93,7 +98,7 @@ BRLA Digital | ERC20 Token Swap | ♦ EVM | Solidity | 14 (2C,0H,3M,9L) | **[�
 | Fomodotbiz | AMM, Bonding Curve | ♦ EVM | Solidity | 6 (3C,0H,3M) | **[🔗](audit-reports/pdfs/Fomodotbiz_Final_Audit_Report.pdf)** |
 | Vouch | Tokenomics | ♦ EVM | Solidity | 7 (2C,0H,5M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Vouch_Token_and_Distribution_Final_Audit_Report.pdf)** |
 | Artulabs Limited | Airdrop, SPL Tokens | 🦀 Solana | Rust | 5 (1C,2H,3M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/Artu_Rust_Final_Audit_Report.pdf)** |
-| Landslide | ICM (Interchain Messaging) | ♦ EVM | Solidity | 7 (2C,0H,5M) | **[🔗](https://github.com/Sanket-722/Audits/blob/main/audit-reports/pdfs/Landslide_Final_Audit_Report.pdf)** |
+| Landslide | ICM (Interchain Messaging) | ♦ EVM | Solidity | 7 (2C,0H,5M) | **[🔗](https://github.com/0xRayaa/Audits/blob/main/audit-reports/pdfs/Landslide_Final_Audit_Report.pdf)** |
 | Save Planet Earth | Staking | ♦ EVM | Solidity | 5 (2C,1H,2M) | **[🔗](https://github.com/Credshields/audit-reports/blob/master/SPE_Smart_Contract_Final_Audit_Report.pdf)** |
 
 </details>
@@ -163,4 +168,4 @@ AllinGames: Hash Dice | GameFi | 🦀 Cosmos (CosmWasm) | Rust | 2 (1C,1H,0M) | 
  |   Affinity 🔒  |    Information Disclosure    |    Low     |   Webapp    |
 
 ---
-**Last updated: April 2026**
+**Last updated: September 2026**
