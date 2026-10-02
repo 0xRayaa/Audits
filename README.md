@@ -1,7 +1,7 @@
 # 0xRayaa's Security Portfolio
 
 Security researcher working across **Web2**, **Web3**, and **AI** security.
-Offensive Security Engineer @ BitGo.
+Offensive Security Engineer.
 
 **Web3:** 130+ private audits · 150+ Critical/High vulnerabilities · 25+ Rust audits 🦀  
 Solidity · Rust (Solana, CosmWasm) · Cairo (StarkNet) · DAML (Canton)
